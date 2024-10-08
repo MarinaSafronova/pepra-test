@@ -330,6 +330,11 @@ button.arrow-top:hover {
     font-size: 1rem
   }
 }
+@media(max-width:690.98px) {
+  .header .navbar-nav a {
+    font-size: 1.25rem
+  }
+}
 .header .block-translation {
   margin-left: 3.125rem
 }
@@ -349,6 +354,11 @@ button.arrow-top:hover {
 @media(max-width:990.98px) {
   .header .block-translation a {
     font-size: 1rem
+  }
+}
+@media(max-width:690.98px) {
+  .header .block-translation a {
+    font-size: 1.25rem
   }
 }
 .header .search-block {
